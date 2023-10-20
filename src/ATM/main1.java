@@ -5,7 +5,6 @@ public class main1 {
         System.out.println("hello");
         System.out.println("hello,git");
         System.out.println("hello,master_1");
+        System.out.println("hello,heima");
     }
-
-
 }
