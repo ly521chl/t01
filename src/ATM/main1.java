@@ -7,5 +7,6 @@ public class main1 {
         System.out.println("hello,master_1");
         System.out.println("hello,heima");
         System.out.println("push commit");
+        System.out.println("pull commit");
     }
 }
